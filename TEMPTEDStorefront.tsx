@@ -1,19 +1,3 @@
-/*
- * UXMAGIC AI — Generated React export
- *
- * Installation Steps:
- *   npm install react react-dom @iconify/react
- *   npm install tailwindcss @tailwindcss/vite
- * (User must configure Vite + @tailwindcss/vite.)
- *
- * Import the companion stylesheet once from your app entry:
- *   import "./index.css";
- * It carries the theme tokens this component's classes depend on — without it
- * the screen renders unstyled. Fonts load from it too.
- *
- * Use npm packages only: React, Tailwind className strings, @iconify/react Icon component for icons.
-*/
-
 import { useState } from "react";
 import { Icon } from "@iconify/react";
 
